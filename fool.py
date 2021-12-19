@@ -1,3 +1,4 @@
+#ของใครก็ไม่รู้ของฟรี
 import requests,json,time, sys, threading, random, os, time, sys
 from requests import Session,post,get
 from re import search
